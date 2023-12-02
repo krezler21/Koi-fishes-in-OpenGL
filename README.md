@@ -6,7 +6,7 @@ The project represents animated models of koi fish inspired by the animation "Av
 ![](expectations.png)
 
 
-## Results:
+## Results
 
 ![](results.png)
 
