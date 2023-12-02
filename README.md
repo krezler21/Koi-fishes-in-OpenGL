@@ -101,7 +101,7 @@ In the project, movement is possible using the following keys:
 - **Left Mouse Button** – freely rotates the camera.
 
 #### Lighting:
-Projekt wykorzystuje trzy źródła światła
+The project utilizes three light sources:
 - **SkyboxShader** - responsible for uniform lighting on all sides of the cube representing the universe.
 - **ShaderProgram** - enables illumination of fish from the inside.
 - **ShaderMoon** - responsible for uniform lighting across the entire surface of the moon.
