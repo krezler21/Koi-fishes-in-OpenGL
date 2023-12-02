@@ -13,6 +13,7 @@ To launch my program I recommend you to do this via "Visual studio". After downl
 However, during the project startup, an error related to model loading may occur. Despite this error, the program should launch after pressing the "Continue" button three times.
 
 ## Code Listing
+### Libraries:
 The project utilizes the following libraries:
 
 - **OpenGL** – a graphics library
