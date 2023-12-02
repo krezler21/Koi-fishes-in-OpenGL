@@ -1,0 +1,35 @@
+﻿  Camera.cpp
+  EBO.cpp
+  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": ponowna definicja makra
+C:\Users\sromk\Desktop\final_project\Code\Libraries\include\glad\glad.h(32,1): message : zobacz poprzednią definicję „APIENTRY”
+  Mesh.cpp
+C:\Users\sromk\Desktop\final_project\Code\Mesh.cpp(107,66): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\sromk\Desktop\final_project\Code\Mesh.cpp(111,87): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  Model.cpp
+C:\Users\sromk\Desktop\final_project\Code\Model.cpp(265,94): warning C4267: "argument": konwersja z "size_t" do "GLuint", możliwa utrata danych
+C:\Users\sromk\Desktop\final_project\Code\Model.cpp(273,96): warning C4267: "argument": konwersja z "size_t" do "GLuint", możliwa utrata danych
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\sromk\Desktop\final_project\Code\VAO.cpp(13,63): warning C4244: "argument": konwersja z "GLsizeiptr" do "GLsizei", możliwa utrata danych
+  VBO.cpp
+  Generowanie kodu...
+  glad.c
+glfw3.lib(input.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(input.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(init.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(init.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(window.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(window.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(context.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(context.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_window.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_window.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_joystick.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_joystick.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_time.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_time.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_init.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_init.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_monitor.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_monitor.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_thread.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(win32_thread.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(monitor.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(monitor.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(vulkan.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(vulkan.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(wgl_context.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(wgl_context.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(egl_context.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(egl_context.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(osmesa_context.obj) : warning LNK4099: nie znaleziono pliku PDB „” z elementem „glfw3.lib(osmesa_context.obj)” lub w pozycji „”; obiekt zostanie skonsolidowany bez informacji debugowania
+  YoutubeOpenGL.vcxproj -> C:\Users\sromk\Desktop\final_project\Code\x64\Debug\YoutubeOpenGL.exe

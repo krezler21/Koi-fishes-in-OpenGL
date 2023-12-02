@@ -1,0 +1,6 @@
+C:\Users\lukas\source\repos\opengl-tutorials\YoutubeOpenGL 21 - Instancing\x64\Debug\YoutubeOpenGL.exe
+C:\Users\sromk\Desktop\Studia, sezon 4\Grafika komputerowa\układ słoneczny\YoutubeOpenGL 21 - Instancing\x64\Debug\YoutubeOpenGL.exe
+C:\Users\Krzys\Desktop\projekt\YoutubeOpenGL 21 - Instancing\x64\Debug\YoutubeOpenGL.exe
+C:\Users\sromk\Desktop\projek\YoutubeOpenGL 21 - Instancing\x64\Debug\YoutubeOpenGL.exe
+C:\Users\sromk\Desktop\final_project\YoutubeOpenGL 21 - Instancing\x64\Debug\YoutubeOpenGL.exe
+C:\Users\sromk\Desktop\final_project\Code\x64\Debug\YoutubeOpenGL.exe
